@@ -12,7 +12,7 @@
 
 </div>
 
-<br>
+
 
 ## 🚀 Technologies
 
@@ -36,7 +36,12 @@ Feel free if you want to run this project directly in your browser directly with
 
 
 <br>
-
-Made with 💜 by Rodrigo Alves 👋 [See my Linkedin](https://www.linkedin.com/in/rodrigo-alves-dev/)
+<h3 align="center">
+  
+  Made with 💜 by Rodrigo Alves 👋 <br>
+   <a href="https://www.linkedin.com/in/rodrigo-alves-dev/" alt="LinkedIn" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+</h3>
 <br>
 
