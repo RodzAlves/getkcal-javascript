@@ -12,11 +12,7 @@
 
 </div>
 
-
 <br>
-
----
-
 
 ## 🚀 Technologies
 
@@ -30,8 +26,6 @@ The project was developed with these technologies:
 
 - ✔️ Serve
 
-
----
 
 ## ⚙ How To Use
 
